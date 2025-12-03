@@ -1,6 +1,6 @@
 ### 💫 Hi There!
 
-I'm a Software Engineer in Front-End and Computer Science Student.
+I'm a Software Engineer and Computer Science Student.
 Currently building stuff and learning new things.
 
 ### 🌐 Connect with me
